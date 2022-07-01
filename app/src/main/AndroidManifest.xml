@@ -10,8 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CardiacMonitor">
         <activity
-
-=======
             android:name=".RecordsActivity"
             android:exported="false"
             android:label="Records"
