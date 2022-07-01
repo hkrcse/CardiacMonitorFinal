@@ -7,7 +7,7 @@ Here sqlite database is used to store previous data.During adding any new entry 
 
 
   <img
-  src="https:/user-images.githubusercontent.com/107655760/176941097-74abb9ee-4745-43c4-861a-681a061bca65.png"
+  src="https://user-images.githubusercontent.com/107655760/176941097-74abb9ee-4745-43c4-861a-681a061bca65.png"
   alt="Alt text"
   title="Optional title"
   style="position:flex display: inline-block; margin: 0 auto; height:300px; width:200px"><img
